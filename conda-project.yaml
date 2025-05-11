@@ -1,0 +1,11 @@
+name: Week 7 Assignment
+maintainers:
+- 4aaaccf9-7114-4945-b7b9-35b0287005a0
+platforms:
+- linux-64
+environments:
+  default:
+  - environment.yaml
+commands:
+  serve:
+    cmd: panel serve Week_7_Assignment.ipynb

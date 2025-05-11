@@ -51,17 +51,6 @@ This project performs a comprehensive analysis of the famous Iris dataset using 
 - Setosa species is clearly separable based on petal length/width.
 - Petal dimensions are more effective for classification than sepal dimensions.
 
-## 🚀 Getting Started
-
-To run this project:
-
-```bash
-git clone https://github.com/yourusername/iris-analysis.git
-cd iris-analysis
-pip install -r requirements.txt
-python iris_analysis.py
-
-
 ### 🧐 Insights from the Analysis:
 
 1. **Basic Statistics (`.describe()`):**
@@ -96,3 +85,14 @@ python iris_analysis.py
 2. **Bar Chart** – Compares **average petal length per species**. Shows clear variation across classes.
 3. **Histogram** – Displays the **distribution of sepal width**. Helps understand the data's spread and skew.
 4. **Scatter Plot** – Reveals the **relationship between sepal length and petal length**, with clear species separation.
+
+
+## 🚀 Getting Started
+
+To run this project:
+
+```bash
+git clone https://github.com/yourusername/iris-analysis.git
+cd iris-analysis
+pip install -r requirements.txt
+python iris_analysis.py
